@@ -6,6 +6,7 @@ Bootstrap4学习
 1. Bootstrap4来了
 2. Bootstrap4初次使用
 3. 为要素配置颜色
+4. 文本样式
 
 ## 课程文件
 
