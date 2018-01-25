@@ -9,6 +9,7 @@ Bootstrap4学习
 4. 文本样式
 5. 元素size变更
 6. padding和margin的使用
+7. 学会使用Bootstrap官网
 
 ## 课程文件
 
